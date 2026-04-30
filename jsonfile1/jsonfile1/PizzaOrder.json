@@ -1,0 +1,7 @@
+[
+  { "Customer": "Sandy", "Pizza": "Pepperoni", "Quantity": 2 },
+  { "Customer": "John", "Pizza": "Margherita", "Quantity": 1 },
+  { "Customer": "Olivia", "Pizza": "BBQ Chicken", "Quantity": 3 },
+  { "Customer": "Noah", "Pizza": "Veggie", "Quantity": 2 },
+  { "Customer": "Emma", "Pizza": "Hawaiian", "Quantity": 1 }
+]
